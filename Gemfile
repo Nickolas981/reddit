@@ -12,6 +12,7 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'acts_as_votable', '~> 0.10.0'
+gem 'simple_form', '~> 3.0.2'
 group :development, :test do
   gem 'byebug'
 end
